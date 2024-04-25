@@ -48,7 +48,7 @@ pyenv activate jupyter
 jupyter lab
 ```
 
-If you have successfully registered your IPython kernel, you should be able to open `finding-donors/finding_donors-final.ipynb` notebook in the newly launched Jupyter Lab webpage and select the *udacity-finding-donors* kernel to run it.
+If you have successfully registered your IPython kernel, you should be able to open `finding-donors/finding_donors.ipynb` notebook in the newly launched Jupyter Lab webpage and select the *udacity-finding-donors* kernel to run it.
 
 # Data
 Additional links to the original data set for further exploration:
@@ -59,5 +59,5 @@ Additional links to the original data set for further exploration:
 # Results
 - All work was completed in the following Jupyter notebook: [finding_donors.ipynb](finding-donors/finding_donors.ipynb)
   - run time for full notebook: 16 mins
-- An HTML export of the notbook can be found here: [report.html](report.html)
+- An HTML export of the notbook can be found here: [report.html](finding-donors/report.html)
 - I have marked cells where I do work outside of what was explicitly requested as *scratchwork*
